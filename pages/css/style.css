@@ -49,10 +49,7 @@ p {
 }
 
 .ima_but:hover {
-    width: 150px;
-    margin-right: 20px;
-    margin-left: 20px;
-    margin-top: 20px;
+    opacity: 0.6;
 }
 
 .zag {
