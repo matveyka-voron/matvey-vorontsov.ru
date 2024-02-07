@@ -39,7 +39,14 @@ p {
     border-radius: 20px;
 }
 
-
+.ima2 {
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
 
 .ima_but {
     width: 145px;
@@ -202,6 +209,10 @@ p {
         line-height: 2cm;
     }
 
+    #main_img {
+        width: 50%;
+    }
+
     .text_footer {
         margin-left: 5px;
         margin-right: 5px;
@@ -239,6 +250,15 @@ p {
     }
 
     .ima {
+        width: 96%;
+        float: none;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-top: none;
+        border-radius: none;
+    }
+
+    .ima2 {
         width: 96%;
         float: none;
         margin-right: 0px;
