@@ -49,6 +49,15 @@ p {
     border-radius: 20px;
 }
 
+.map {
+    width: 40%;
+    float: right;
+    margin-right: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
 .ima2 {
     width: 40%;
     float: left;
@@ -368,6 +377,10 @@ p {
         margin-left: 0px;
         margin-top: none;
         border-radius: none;
+    }
+
+    .map {
+        float: none;
     }
 
     .ima2 {
